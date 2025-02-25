@@ -39,9 +39,9 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=owaisraza-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=owaisraza01&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=owaisraza-dev&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=owaisraza01&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -49,6 +49,6 @@
 ## 📫 Let's Connect!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Owais%20Raza-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammad-owais-raza/)  
-[![Email](https://img.shields.io/badge/Email-owaisraza.dev@gmail.com-red?style=flat-square&logo=gmail)](mailto:owaisraza.dev@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-owaisraza00@gmail.com-red?style=flat-square&logo=gmail)](mailto:owaisharoon00@gmail.com)  
 
 🚀 **Check out my repositories and let's collaborate on exciting projects!**  
