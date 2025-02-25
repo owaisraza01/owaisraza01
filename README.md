@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi there! I'm Muhammad Owais Raza  
 
-<!--
-**owaisraza01/owaisraza01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=0E7FE2&width=600&lines=🚀+Frontend+Developer+|+React+Enthusiast;💻+Building+Modern+Web+Applications;🔥+Passionate+about+Tech+and+Innovation)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 About Me  
+
+🎓 **Software Engineering Graduate (SSUET) | CGPA: 3.52**  
+💻 **Tech Stack:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)  
+
+📌 **Experience:**  
+- **Frontend Developer Intern** at Dynamics Technology Systems  
+- Worked on **React.js**, API integrations, and **AI-powered chatbot fine-tuning**  
+- Performed **manual testing** on an HRMS website  
+
+---
+
+## 🚀 My Projects  
+
+### 🔹 **AI-Powered Mock Interview Simulator**  
+🔸 **React.js**, **NLP**, **Speech-to-Text & Text-to-Speech**, **PoseNet for Posture Tracking**  
+
+### 🔹 **Programming Chatbot**  
+🔸 **React.js**, **API-based NLP Models**, **Chatbot UI**  
+
+### 🔹 **Real-time Twitter Trend Analyzer**  
+🔸 **React.js**, **Data Visualization**, **API Data Fetching**  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=owaisraza-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=owaisraza-dev&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Let's Connect!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Owais%20Raza-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammad-owais-raza/)  
+[![Email](https://img.shields.io/badge/Email-owaisraza.dev@gmail.com-red?style=flat-square&logo=gmail)](mailto:owaisraza.dev@gmail.com)  
+
+🚀 **Check out my repositories and let's collaborate on exciting projects!**  
