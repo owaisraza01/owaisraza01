@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./banner.jpg)
 
 # 👋 Hi there! I'm Muhammad Owais Raza  
 
