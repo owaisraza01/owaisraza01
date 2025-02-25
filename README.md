@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=0E7FE2&width=600&lines=👨‍💻+Frontend+Developer+|+React+JS;🚀+Building+Scalable+and+Efficient+Web+Apps;📌+Focused+on+Performance+and+User+Experience;🔍+Always+Learning+and+Improving)](https://git.io/typing-svg)
 
-
 ---
 
 ## 🔹 About Me  
@@ -40,9 +39,15 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=owaisraza01&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=owaisraza01&show_icons=true&theme=transparent" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=owaisraza01&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=owaisraza01&theme=transparent" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=owaisraza01&theme=transparent&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=owaisraza01&theme=github" alt="GitHub Activity Graph" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owaisraza01&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 
 ---
