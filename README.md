@@ -1,7 +1,4 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://your-image-url.com/banner.png" alt="Minimal Banner" width="100%">
-</p>
+![Header](./your-header-image-name.png)
 
 # 👋 Hi there! I'm Muhammad Owais Raza  
 
@@ -19,7 +16,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)    
 
 📌 **Experience:**  
 - **Frontend Developer Intern** at Dynamics Technology Systems  
