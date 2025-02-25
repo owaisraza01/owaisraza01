@@ -52,7 +52,7 @@
 ## 📫 Let's Connect!  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-owais-raza/">
+  <a href="https://www.linkedin.com/in/owais-raza01/">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Owais%20Raza-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:owaisharoon00@gmail.com">
