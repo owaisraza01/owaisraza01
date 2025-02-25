@@ -1,12 +1,13 @@
 # 👋 Hi there! I'm Muhammad Owais Raza  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=0E7FE2&width=600&lines=🚀+Frontend+Developer+|+React+Enthusiast;💻+Building+Modern+Web+Applications;🔥+Passionate+about+Tech+and+Innovation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=0E7FE2&width=600&lines=👨‍💻+Frontend+Developer+|+React+JS;🚀+Building+Scalable+and+Efficient+Web+Apps;📌+Focused+on+Performance+and+User+Experience;🔍+Always+Learning+and+Improving)](https://git.io/typing-svg)
+
 
 ---
 
 ## 🔹 About Me  
 
-🎓 **Software Engineering Graduate (SSUET) | CGPA: 3.52**  
+🎓 **Software Engineering Graduate (SSUET) | CGPA: 3.55**  
 💻 **Tech Stack:**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
