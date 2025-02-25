@@ -1,3 +1,8 @@
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://your-image-url.com/banner.png" alt="Minimal Banner" width="100%">
+</p>
+
 # 👋 Hi there! I'm Muhammad Owais Raza  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=0E7FE2&width=600&lines=👨‍💻+Frontend+Developer+|+React+JS;🚀+Building+Scalable+and+Efficient+Web+Apps;📌+Focused+on+Performance+and+User+Experience;🔍+Always+Learning+and+Improving)](https://git.io/typing-svg)
@@ -54,7 +59,13 @@
 
 ## 📫 Let's Connect!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Owais%20Raza-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammad-owais-raza/)  
-[![Email](https://img.shields.io/badge/Email-owaisraza00@gmail.com-red?style=flat-square&logo=gmail)](mailto:owaisharoon00@gmail.com)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-owais-raza/">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Owais%20Raza-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:owaisharoon00@gmail.com">
+    <img src="https://img.shields.io/badge/Email-owaisraza00@gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
 🚀 **Check out my repositories and let's collaborate on exciting projects!**  
