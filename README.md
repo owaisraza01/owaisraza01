@@ -58,6 +58,9 @@
   <a href="mailto:owaisharoon00@gmail.com">
     <img src="https://img.shields.io/badge/Email-owaisraza00@gmail.com-red?style=for-the-badge&logo=gmail">
   </a>
+   <a href="https://portfolio-owais-raza.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=vercel">
+</a>
 </p>
 
 🚀 **Check out my repositories and let's collaborate on exciting projects!**  
